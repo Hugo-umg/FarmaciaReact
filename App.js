@@ -15,7 +15,7 @@ export default function App() {
     </NavigationContainer>
   );
 }
-//dfuq
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
